@@ -18,5 +18,6 @@ module.exports = {
     },
     devServer: {
         watchContentBase: true,
+        open:true
     }
   }
